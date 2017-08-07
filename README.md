@@ -30,12 +30,9 @@
 
     `rails s`
 
-1. Open your Postman, method get
-    - http://localhost:3000/api/v1/search?checkin=20170804&checkout=20170805&guests=Peter&destination=Singapore&suppliers=supplier2
-    - http://localhost:3000/api/v1/search?checkin=20170804&checkout=20170805&guests=Peter&destination=Singapore&suppliers=supplier1,supplier3
-    - http://localhost:3000/api/v1/search?checkin=20170804&checkout=20170805&guests=Peter&destination=Singapore&suppliers=
-
 1. Result
-    - ![](https://ws1.sinaimg.cn/large/006tKfTcly1fi7palbaphj31hc0xcadm.jpg)
-    - ![](https://ws4.sinaimg.cn/large/006tKfTcly1fi7pa1m9lvj31hc0xcq6r.jpg)
-    - ![](https://ws4.sinaimg.cn/large/006tKfTcly1fi7pb4v58vj31hc0xcae2.jpg)
+    - ![](https://github.com/lbias/hotel-search/blob/master/app/assets/images/0.png)
+    - ![](https://github.com/lbias/hotel-search/blob/master/app/assets/images/1.png)
+    - ![](https://github.com/lbias/hotel-search/blob/master/app/assets/images/2.png)
+
+![me](https://github.com/lbias/hotel-search/blob/master/app/assets/images/me.png)
